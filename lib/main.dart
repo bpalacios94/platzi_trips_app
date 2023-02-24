@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Hola Mundo"),
         ),
-        body: Center(
+        body: const Center(
           child: Text("Hola Mundo"),
         ) ,
     ));
